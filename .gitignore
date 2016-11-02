@@ -1,4 +1,8 @@
 /target/
+/.settings/
+#.gitignore
+#.classpath
+#.project
 # Compiled source #
 ###################
 *.com
